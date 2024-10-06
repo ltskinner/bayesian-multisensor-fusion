@@ -1,0 +1,6 @@
+
+openpyxl
+
+pgmpy
+
+plotly

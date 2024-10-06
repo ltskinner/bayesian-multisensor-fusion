@@ -1,0 +1,13 @@
+object_intent,mean,std
+"bomber, cruise",0.626,0.81
+"bomber, evade/neut",0.623,0.598
+"bomber, attack",0.571,0.542
+"missile, attack",0.552,0.507
+"fighter, evade/neut",0.458,0.429
+"missile, cruise",0.413,0.342
+"uav, evade/neut",0.341,0.298
+"uav, attack",0.304,0.244
+"fighter, cruise",0.287,0.293
+"uav, cruise",0.287,0.265
+"fighter, attack",0.26,0.195
+"missile, evade/neut",0.232,0.183
